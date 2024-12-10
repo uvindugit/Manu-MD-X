@@ -10,7 +10,7 @@ module.exports = {
   "AUTO_VOICE": "false",
   "ANTI_BAD": "warn",
   "ANTI_BOT": "false",
-  "ANTI_CALL": "false",
+  "ANTI_CALL": "true ",
   "ANTI_LINK": "false",
   "ANTI_PHOTO": "warn",
   "ANTI_STICKER": "warn",
